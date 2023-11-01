@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Editify
+- 🌱 I’m currently learning ML (CS229)
+
 <!--
 **tkejr/tkejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
