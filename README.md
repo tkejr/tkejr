@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Editify
+- 🔭 I’m currently working on Shopvana.io
 - 🌱 I’m currently learning ML (CS229)
 
 <!--
