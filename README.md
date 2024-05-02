@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shopvana.io
-- 🌱 I’m currently learning ML (CS229)
+- 🔭 I’m currently working on [Shopvana.io](https://shopvana.io)
+- 🌱 I’m currently learning ML through [CS229](http://cs229.stanford.edu/)
+
 
 <!--
 **tkejr/tkejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
