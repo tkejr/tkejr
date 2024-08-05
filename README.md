@@ -13,26 +13,6 @@ I'm **Tanmay Kejriwal**, a Software Engineer working at DFA based in Austin, TX.
 - 🎉 I have competed in several hackathons for fun and even judged a hackathon with over 500 participants.
 - 💬 Ask me about Python, React, Django, and anything related to full-stack development.
 
-### 🔧 Skills
-
-- Python
-- Java
-- React
-- SQL
-- AWS
-- GitHub
-- PostgreSQL
-- Django
-- Gadget
-- HTML
-- CSS
-- JavaScript
-- Agile Methodology
-- Kotlin
-- Shopify App Development
-- Large Language Model
-- Model Fine Tuning
-
 ### 📫 How to Reach Me
 
 - Email: [tan.kejriwal@gmail.com](mailto:tan.kejriwal@gmail.com)
@@ -41,11 +21,6 @@ I'm **Tanmay Kejriwal**, a Software Engineer working at DFA based in Austin, TX.
 - [Twitter](https://twitter.com/tkejr_)
 
 ### 🛠️ Projects
-
-#### [Keepcart](https://www.keepcart.co)
-- Increased merchant revenue by 1.2x by implementing advanced coupon extension blocking with React and Node.js.
-- Developed comprehensive analytics tools using React, Node.js, and Postgres.
-- Automated daily site scraping and merchant notifications using Django backend, React, Node.js, and Tinybird analytics.
 
 #### AI Cashier
 - Utilized Retell and OpenAI LLM to handle and understand phone call orders.
