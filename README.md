@@ -1,22 +1,69 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Shopvana.io](https://shopvana.io)
-- 🌱 I’m currently learning ML through [CS229](http://cs229.stanford.edu/)
+I'm **Tanmay Kejriwal**, a Software Engineer working at DFA based in Austin, TX. I love building things. Very active on Twitter.
 
+🌱 I’m currently learning ML through [CS229](http://cs229.stanford.edu/).
 
-<!--
-**tkejr/tkejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Software Engineer at [Dimensional Fund Advisors](https://dimensional.com).
+- 🏢 In the past, I've interned at [Sky5 Solutions](https://sky5solutions.com) and studied at [Texas Christian University](https://www.tcu.edu).
+- 🎓 I have a Bachelor of Technology in Computer Science.
+- 🌟 I’m contributing to open source in my free time.
+- 🎉 I have competed in several hackathons for fun and even judged a hackathon with over 500 participants.
+- 💬 Ask me about Python, React, Django, and anything related to full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+- Python
+- Java
+- React
+- SQL
+- AWS
+- GitHub
+- PostgreSQL
+- Django
+- Gadget
+- HTML
+- CSS
+- JavaScript
+- Agile Methodology
+- Kotlin
+- Shopify App Development
+- Large Language Model
+- Model Fine Tuning
+
+### 📫 How to Reach Me
+
+- Email: [tan.kejriwal@gmail.com](mailto:tan.kejriwal@gmail.com)
+- [GitHub](https://github.com/tkejr)
+- [LinkedIn](https://www.linkedin.com/in/tanmaykejriwal/)
+- [Twitter](https://twitter.com/tkejr_)
+
+### 🛠️ Projects
+
+#### [Keepcart](https://www.keepcart.co)
+- Increased merchant revenue by 1.2x by implementing advanced coupon extension blocking with React and Node.js.
+- Developed comprehensive analytics tools using React, Node.js, and Postgres.
+- Automated daily site scraping and merchant notifications using Django backend, React, Node.js, and Tinybird analytics.
+
+#### AI Cashier
+- Utilized Retell and OpenAI LLM to handle and understand phone call orders.
+- Integrated with Toast and Square POS systems and POS printers.
+- Developed with Django for backend operations and deployed using reliable hosting services.
+
+### 🏆 Hackathons
+
+#### Hackathon at University of Texas, Austin, TX
+- Judged a hackathon with over 500 participants.
+- Evaluated 55+ projects, provided mentorship, served on the deciding committee, and conducted a workshop on GitHub and teamwork.
+
+#### Hackathon at University of Texas, Arlington, TX
+- Developed a mobile application using React Native, Node.js, and Tesseract OCR that scans receipts to identify insurable items.
+- Won "Best Mobile App - Statefarm".
+
+#### DivHacks at Columbia University, New York, NY
+- Developed a dynamic quiz platform using HTML, CSS, and JavaScript.
+- Won "Most Educational Hack".
+
 <p align="center"><sub><small>Last updated: October 31, 2023</small></sub></p>
-
